@@ -1,2 +1,2 @@
-# stok-control
+# stock-control
 controle de estoque
